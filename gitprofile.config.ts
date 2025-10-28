@@ -16,8 +16,8 @@ const CONFIG = {
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
+        limit: 2, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -51,10 +51,10 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Abulkhoir loruko mi', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
+    linkedin: 'Abulkhoir loruko mo',
+    x: 'abulkhoir124',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
@@ -70,28 +70,28 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'oladejisoliu@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Flutter',
+    'Dart',
     'JavaScript',
     'React.js',
     'Node.js',
-    'Nest.js',
-    'MySQL',
+  
+    
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    
+    
     'CSS',
-    'Antd',
+    
     'Tailwind',
   ],
   experiences: [
@@ -114,16 +114,16 @@ const CONFIG = {
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      year: 'March 2025',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Obafemi Awolowo University',
+      degree: 'Bsc',
+      from: '2020',
+      to: '2025',
     },
     {
       institution: 'Institution Name',
