@@ -61,17 +61,17 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
+    youtube: 'abulkhoir', // example: 'pewdiepie'
+    udemy: 'abulkhoir',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'abulkhoir',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
-    telegram: '',
+    telegram: 'abulkhoir',
     website: '',
-    phone: '',
+    phone: '08067902930',
     email: 'oladejisoliu@gmail.com',
   },
   resume: {
