@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 2, // How many projects to display.
+        limit: 5, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -53,9 +53,9 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Abulkhoir loruko mi', description: '', imageURL: '' },
   social: {
-    linkedin: 'Abulkhoir loruko mo',
+    linkedin: 'https://ng.linkedin.com/in/sooliu-oladeji-279a78215',
     x: 'abulkhoir124',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -76,7 +76,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1NtodkuYYn7S-rCkGNXTcc7GkCpRLz94m/edit?usp=drivesdk&ouid=110596995064096636656&rtpof=true&sd=true', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Flutter',
@@ -86,13 +86,13 @@ const CONFIG = {
     'Node.js',
   
     
-    'PostgreSQL',
+    'React native',
     'Git',
     
     
-    'CSS',
+    '',
     
-    'Tailwind',
+    '',
   ],
   experiences: [
     {
@@ -112,7 +112,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'Udemy certificate on dart',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2025',
       link: 'https://example.com',
