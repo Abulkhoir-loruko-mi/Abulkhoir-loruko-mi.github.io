@@ -113,7 +113,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Udemy certificate on dart',
-      body: 'Lorem ipsum dolor sit amet',
+      body: '',
       year: 'March 2025',
       link: 'https://example.com',
     },
